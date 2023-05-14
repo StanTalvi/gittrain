@@ -1,3 +1,3 @@
 def service_method(a)
-  a = a**2
+  a = a**3
 end
