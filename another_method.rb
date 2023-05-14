@@ -1,3 +1,3 @@
-def another_method(a)
+def service_method(a)
   a = a**2
 end
