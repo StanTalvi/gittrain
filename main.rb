@@ -1,3 +1,3 @@
-def some_method
-    "I am a method"
+def some_method(a, b)
+    (a + b)**2
 end
